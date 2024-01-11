@@ -12,7 +12,9 @@ a file storage system.
 
 |   Tasks   |   Files    |    Description    |
 | --------- | ---------- | ----------------- |
-| 0. README, AUTHORS File | [AUTHORS] () | Authors page
+| 0. README, AUTHORS File | [AUTHORS]() | Authors page
 | 1. Pycodestyle compliant using pep8 | No file for this | All codes are pycodestyle compliant
-|
+| 2. Unittests | [/tests](https://github.com/NinoZara/AirBnB_clone.git/) | all class-defining
+models are unit tested |
+| 3. BaseModel | [/models/base_model.py]() | Defines the class model that all other models inherit from |
 This is the AirBnB_clone project Readme file for Alanwoke Martins and Iliya Damina
