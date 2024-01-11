@@ -13,15 +13,21 @@ a file storage system.
 |   Tasks   |   Files    |    Description    |
 | --------- | ---------- | ----------------- |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | 0. README, AUTHORS File | [AUTHORS](https://github.com/NinoZara/AirBnB_clone/blob/master/AUTHORS) | Authors page
 | 1. Pycodestyle compliant using pep8 | No file for this | All codes are pycodestyle compliant
 | 2. Unittests | [/tests](https://github.com/NinoZara/AirBnB_clone.git/) | all class-defining models are unit tested |
 | 3. BaseModel | [/models/base_model.py]() | Defines the class model that all other models inherit from |
 =======
 | 0. README, AUTHORS File | [AUTHORS]() | Authors page
+=======
+| 0. README, AUTHORS File | [AUTHORS](https://github.com/NinoZara/AirBnB_clone/blob/master/AUTHORS) | Authors page
+>>>>>>> ad34ef0 (updated readme file)
 | 1. Pycodestyle compliant using pep8 | No file for this | All codes are pycodestyle compliant
-| 2. Unittests | [/tests](https://github.com/NinoZara/AirBnB_clone.git/) | all class-defining
-models are unit tested |
+| 2. Unittests | [/tests](https://github.com/NinoZara/AirBnB_clone.git/) | all class-defining models are unit tested |
 | 3. BaseModel | [/models/base_model.py]() | Defines the class model that all other models inherit from |
+<<<<<<< HEAD
 This is the AirBnB_clone project Readme file for Alanwoke Martins and Iliya Damina
 >>>>>>> d927170 (updated readme)
+=======
+>>>>>>> ad34ef0 (updated readme file)
