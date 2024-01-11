@@ -1,4 +1,4 @@
-#AirBnB clone
+# AirBnB clone
 
 This is the first stage of the project - AirBnB clone which is a project
 that clones the original AirBnB website. At this stage, the implementation of
