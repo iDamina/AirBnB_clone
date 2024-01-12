@@ -1,4 +1,4 @@
-#AirBnB clone
+# AirBnB clone
 
 This is the first stage of the project - AirBnB clone which is a project
 that clones the original AirBnB website. At this stage, the implementation of
@@ -12,7 +12,7 @@ a file storage system.
 
 |   Tasks   |   Files    |    Description    |
 | --------- | ---------- | ----------------- |
-| 0. README, AUTHORS File | [AUTHORS] () | Authors page
+| 0. README, AUTHORS File | [AUTHORS](https://github.com/NinoZara/AirBnB_clone/blob/master/AUTHORS) | Authors page
 | 1. Pycodestyle compliant using pep8 | No file for this | All codes are pycodestyle compliant
-|
-This is the AirBnB_clone project Readme file for Alanwoke Martins and Iliya Damina
+| 2. Unittests | [/tests](https://github.com/NinoZara/AirBnB_clone.git/) | all class-defining models are unit tested |
+| 3. BaseModel | [/models/base_model.py]() | Defines the class model that all other models inherit from |
