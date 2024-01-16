@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""Module for Base class
-Contains the Base class for the AirBnB clone console.
+"""Module for Base class Contains the Base class for the AirBnB clone console.
 """
 
 import uuid
@@ -28,7 +27,7 @@ class BaseModel:
                 else:
                     self.__dict__[key] = kwargs[key]
         else:
-            self.id = str(uuid4())
+            self.id = str(uuid.uuid4())
             self.created_at = datetime.now()
             self.updated_at = datetime.now()
         
