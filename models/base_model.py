@@ -15,7 +15,7 @@ class BaseModel:
             - *args: list of arguments
             - **kwargs: dict of key-values arguments
         """
-
+        dtform = "%Y-%m-%dT%H:%M:%S.%f"
         if kwargs is not None and kwargs != {}:
             for key in kwargs:
                 if key == "created_at":
